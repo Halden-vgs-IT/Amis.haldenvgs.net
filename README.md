@@ -1,2 +1,4 @@
 # Amis.haldenvgs.net
-Amiar
+Eksamen
+<a href="ekshost2018/index.html">
+
